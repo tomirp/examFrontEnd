@@ -1,0 +1,87 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "bakiaklapuk",
+      "email": "a@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "username": "rachmawan",
+      "email": "b@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 3,
+      "username": "gilabener",
+      "email": "c@gmail.com",
+      "password": "1234"
+    },
+    {
+      "username": "qwer",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "username": "asdf",
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "username": "enampangkatiga",
+      "email": "d@gmail.com",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "username": "badakculasatu",
+      "email": "e@gmail.com",
+      "password": "1234",
+      "id": 7
+    },
+    {
+      "username": "admin",
+      "email": "b@gmail.com",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 9
+    },
+    {
+      "username": "wolter",
+      "email": "monginsidi@gmail.com",
+      "password": "1234",
+      "id": 10
+    }
+  ],
+  "products": [
+    {
+      "name": "Kemeja Pria",
+      "desc": "Warna Putih Slim Fit",
+      "price": 300000,
+      "src": "data:image/jpeg;base64,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",
+      "id": 6
+    },
+    {
+      "name": "Celana Chinos",
+      "desc": "Warna : Coklat, Reguler Fit",
+      "price": "400000",
+      "src": "https://img1.pngdownload.id/20180530/lcu/kisspng-pants-clothing-chino-cloth-casual-shoe-5b0e5bcebad8f6.9577980415276676627653.jpg",
+      "id": 7
+    },
+    {
+      "name": "Jacket Denim",
+      "desc": "Warna : Biru",
+      "price": 700000,
+      "src": "https://img1.pngdownload.id/20190226/ruc/kisspng-jacket-denim-coat-jeans-5c757f51c0a2d3.233117671551204177789.jpg",
+      "id": 8
+    }
+  ]
+}
